@@ -965,6 +965,7 @@
             activationTextbox.Size = new Size(153, 23);
             activationTextbox.TabIndex = 1;
             activationTextbox.TabStop = false;
+            activationTextbox.Text = "ADMINISTRATOR";
             activationTextbox.TextChanged += activationTextbox_TextChanged;
             activationTextbox.KeyDown += activationTextbox_KeyDown;
             // 

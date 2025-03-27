@@ -81,8 +81,8 @@ namespace Elden_Ring_Manager
                 buttons2Panel.Enabled = false;
                 buttons3Panel.Enabled = false;
                 var (savedPath1, savedPath2, pass, allow) = ConfigManager.LoadPaths();
-                string activation_C = ConfigManager.LoadActivation();
-                activationTextbox.Text = activation_C;
+                //string activation_C = ConfigManager.LoadActivation();
+                //activationTextbox.Text = activation_C;
                 eldenRingPathTextbox.Text = savedPath1;
                 steamPathTextbox.Text = savedPath2;
                 sessionPassTextBox.Text = pass;
@@ -93,6 +93,7 @@ namespace Elden_Ring_Manager
                 labelupdate();
                 ReadstatsButtonUpdate();
                 CheckEldenRingDynamically();
+                FormManager.GiveAdminAccess();
             }
         }
 
@@ -851,7 +852,7 @@ namespace Elden_Ring_Manager
         {
             if (ProcessManager.IsProcessRunning("eldenring"))
             {
-                ProcessManager.killProcess("eldenring");
+                //ProcessManager.killProcess("eldenring");
             }
         }
 
