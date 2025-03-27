@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elden Ring Manager", "Elden Ring Manager\Elden Ring Manager.csproj", "{D3FD2987-5FB4-41D0-AEC0-74B26399E1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FD2987-5FB4-41D0-AEC0-74B26399E1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FD2987-5FB4-41D0-AEC0-74B26399E1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FD2987-5FB4-41D0-AEC0-74B26399E1AD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FD2987-5FB4-41D0-AEC0-74B26399E1AD}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
