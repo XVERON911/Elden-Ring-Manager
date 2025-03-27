@@ -9,5 +9,9 @@
  **DO NOT USE `ERM` ON A GAME SAVE THAT GOES `ONLINE` !!**  
  **I DIDN'T COLLABORATE WITH ``SEAMLESS COOP OWNER`` TO MAKE ``ERM``**  
 
+**Copyright (C) 2025 ``VERON911``**  
+**You may NOT redistribute, modify, or sell this software without permission.**  
+
+
 *Discord: berlin0698*  
 *REDDIT: [Sensitive-Arma](https://www.reddit.com/user/Sensitive-Arma/)*
