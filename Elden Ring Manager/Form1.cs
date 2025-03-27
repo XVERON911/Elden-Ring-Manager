@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 namespace Elden_Ring_Manager
 {
-    //this is TEST branch
+    // [TERMINAL] ! TEST BRANCH !! ADMIN ONLY !
+
     public partial class Form1 : Form
     {
         private bool dragging = false;
@@ -56,6 +57,12 @@ namespace Elden_Ring_Manager
         public static bool admin = false;
         private async void Form1_Load(object sender, EventArgs e)
         {
+            challengerLabel.Text = "  ~~~~ADMIN~~~~";
+            challengerLabel.ForeColor = Color.ForestGreen;
+            Developer = true;
+            FormManager.GiveAdminAccess();
+            challengerLabel.Font = new Font(this.Font, this.Font.Style | FontStyle.Bold);
+
             this.FormClosing += formClose;
             if (!FormManager.IsUserAdmin() || !imgLoaded)
             {
@@ -87,13 +94,12 @@ namespace Elden_Ring_Manager
                 steamPathTextbox.Text = savedPath2;
                 sessionPassTextBox.Text = pass;
                 allowInvadersCheckBox.Checked = allow;
-                FormManager.Challenger(challengerLabel, animationspeedLabel);
+                //FormManager.Challenger(challengerLabel, animationspeedLabel);
                 FormManager.UserActivationCheck(Buttons_Panel, buttons2Panel, buttons3Panel, CheckEldenRingButton, adminTextBox, killERbutton, killSteamButton);
                 FormManager.CheckGeneratedCodes(adminTextBox);
                 labelupdate();
                 ReadstatsButtonUpdate();
                 CheckEldenRingDynamically();
-                FormManager.GiveAdminAccess();
             }
         }
 
