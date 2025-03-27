@@ -6,7 +6,7 @@
 - **IMAGE:**
 ![(Elden Ring Manager)](Screenshot.png)
 
- **DO NOT USE `ERM` ON A GAME SAVE THAT GOES `ONLINE` !!**
+ **DO NOT USE `ERM` ON A GAME SAVE THAT GOES `ONLINE` !!**  
  **I DIDN'T COLLABORATE WITH ``SEAMLESS COOP OWNER`` TO MAKE ``ERM``**  
 
 *Discord: berlin0698*  
