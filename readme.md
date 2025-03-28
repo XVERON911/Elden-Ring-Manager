@@ -14,4 +14,4 @@
 
 
 *Discord: berlin0698*  
-*REDDIT: [Sensitive-Arma](https://www.reddit.com/user/Sensitive-Arma/)*
+*REDDIT: [Sensitive-Arma](https://www.reddit.com/user/Sensitive-Arma/)*  
