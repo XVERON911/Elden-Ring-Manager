@@ -1,4 +1,4 @@
-**Elden Ring Manager**
+**Elden Ring Manager ~ADMIN ONLY~**
 
 - ***ERM*** Aims to fix Seamless Coop Mod for older game Versions ex: v1.12  
 - ***ERM*** will **NEVER** manipulate game's Save Files !
