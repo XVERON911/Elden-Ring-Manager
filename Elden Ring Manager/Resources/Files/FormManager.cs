@@ -97,7 +97,6 @@ namespace Elden_Ring_Manager.Resources.Files
                     DisableAllControls(control);
                 }
             }
-
         }
 
         public static void EnableAllControls(Control parent) // disable all
