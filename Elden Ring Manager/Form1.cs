@@ -64,11 +64,12 @@ namespace Elden_Ring_Manager
             challengerLabel.Font = new Font(this.Font, this.Font.Style | FontStyle.Bold);
 
             this.FormClosing += formClose;
-            if (!FormManager.IsUserAdmin() || !imgLoaded)
+            if (!FormManager.IsUserAdmin())
             {
                 if (!FormManager.IsUserAdmin())
                 {
                     MessageBox.Show("YOU ARE NOT RUNNING AS ADMINISTRATOR !", "Admin Required", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
                     FormManager.DisableAllControls(this);
                     this.Text += " ~~ADMINISTRATOR REQUIRED~~";
                     this.Font = new Font(this.Font, this.Font.Style | FontStyle.Strikeout);
