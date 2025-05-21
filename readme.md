@@ -49,25 +49,26 @@ C:\Program Files (x86)\Steam
 ![(Elden Ring Manager)](GIF2.gif)
 ![(Elden Ring Manager)](GIF1.gif)
 <br>
+``This Software main purpose is to fix SeamlessCoop Error and Was tested on Elden Ring Version 1.12 Only and may NOT work as Expected For newer or older Versions of the game``
+
  **DO NOT USE `ERM` ON A GAME SAVE THAT GOES `ONLINE` !!**  
  **I DIDN'T COLLABORATE WITH ``SEAMLESS COOP OWNER`` TO MAKE ``ERM``**
  Sorry For Bad Quality GIFs
 <br>
-
-```diff
--Building forv DEVELOPERS ONLY:
-Recommended branch is test. (ADMIN branch)
-C# Development Kit & .NETFramework For Visual Studio
-Clone Project and Open .sln File
-main branch is for the Software requiring Activation Dode
-test branch is for the Software NOT requiring Activation Code (ADMIN)
-```
+````
+Building for DEVELOPERS ONLY:
+-Recommended branch is test. (ADMIN branch)
+-C# Development Kit & .NETFramework For Visual Studio
+-Clone Project and Open .sln File
+-main branch is for the Software requiring Activation Dode
+-test branch is for the Software NOT requiring Activation Code (ADMIN)
+````
+<br>
 
 **Copyright (C) 2025 ``VERON911 || CHALLENGER``**  
 **You may NOT redistribute, modify, or sell this software without permission.**  
 **Credits to: [Massivetwat](https://github.com/Massivetwat)'s [Swed64](https://github.com/Massivetwat/Swed64) Library.**
 <br>
-``This Software main purpose is to fix SeamlessCoop Error and Was tested on Elden Ring Version 1.12 Only and may NOT work as Expected For newer or older Versions of the game``
-<br>
+
 *Discord: berlin0698*  
 *REDDIT: [Sensitive-Arma](https://www.reddit.com/user/Sensitive-Arma/)*  
