@@ -47,6 +47,7 @@ MAKE SURE OF THE STEAM PATH BEFORE LAUNCHING SEAMLESS COOP THROUGH ERM (IF WRONG
 
 ```yaml
 Building For Developers Only:
+-Recommended branch is test. (ADMIN branch)
 -CSharp Development Kit & .NETFramework For Visual Studio
 -Clone Project and Open .sln File
 -main branch is for the Software requiring Activation Dode
