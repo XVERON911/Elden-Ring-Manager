@@ -46,6 +46,7 @@ C:\Program Files (x86)\Steam
 ```
 ![(Elden Ring Manager)](GIF2.gif)
 ![(Elden Ring Manager)](GIF1.gif)
+<br>
  **DO NOT USE `ERM` ON A GAME SAVE THAT GOES `ONLINE` !!**  
  **I DIDN'T COLLABORATE WITH ``SEAMLESS COOP OWNER`` TO MAKE ``ERM``**
  Sorry For Bad Quality GIFs
