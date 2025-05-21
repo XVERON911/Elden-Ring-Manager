@@ -2,8 +2,8 @@
 #IF YOU WANT TO USE THE SOFTWARE WITHOUT ACTIVATION CODE
 #USE ADMIN-ERM SCREENSHOTS Below:
 ```
-![(Elden Ring Manager)](Screenshot2.png)
-![(Elden Ring Manager)](Screenshot3.png)
+![(Elden Ring Manager)](Screenshot2.PNG)
+![(Elden Ring Manager)](Screenshot3.PNG)
 
 **Elden Ring Manager (ERM)**
 - ***ERM*** Aims to fix Seamless Coop Mod for older game Versions ex: v1.12  
@@ -11,32 +11,32 @@
 - ***ERM*** uses `Memory-Reading & Writing` to Write the Game's data
 - **ERM** Works with Cracked/Pirated versions of the game
 ![(Elden Ring Manager)](Screenshot.png)
-```diff
--ERM will need Elden Ring & Steam paths in your drive (First use only)
+```yaml
+-ERM will need Elden Ring & Steam paths in your drive (First use only):
 Example:
 D:\Games\ELDEN RING - Shadow Of The Erdtree
 C:\Program Files (x86)\Steam
 
--ERM will also need you to set up the Session password & whether to allow invaders or not (First use only)
+-ERM will also need you to set up the Session password & whether to allow invaders or not (First use only):
 
--Launch Seamless Coop will Attempt to launch the Game with Seamless Coop and bypass it's known Error (for older Game Versions)
+-Launch Seamless Coop will Attempt to launch the Game with Seamless Coop and bypass it's known Error (for older Game Versions):
 
--Checker State -> Periodically checking for the Game & Steam if running or not
+-Checker State -> Periodically checking for the Game & Steam if running or not:
 
--Read Button will read the game's Memory so it can fetch Player Stats, Health and more..
+-Read Button will read the game's Memory so it can fetch Player Stats, Health and more..:
 
--Freeze HP/FP will run a script that will keep them on the last number you set in ERM
+-Freeze HP/FP will run a script that will keep them on the last number you set in ERM::
 
--Set Runes has a maximum amount of Runes you can give as the Game will crash if you gave more
+-Set Runes has a maximum amount of Runes you can give as the Game will crash if you gave more:
 
--Rune Arc Status will activate the Rune you have (instead of the ingame Rune Arc)
+-Rune Arc Status will activate the Rune you have (instead of the ingame Rune Arc):
 
--Kill Elden Ring / Kill Steam will attempt to kill the process
+-Kill Elden Ring / Kill Steam will attempt to kill the process:
 ```
-```yaml
-DO NOT PRESS READ BUTTON WHILE IN MAIN MENU OR LOADING SCREEN (MAY CRASH YOUR GAME & DAMAGE YOUR SAVE):
-DO NOT CHANGE HP/FP VALUES WHILE FREEZE IS ON (ERM IS WRITING THE SAME DATA YOU ARE CHANGING):
-MAKE SURE OF THE STEAM PATH BEFORE LAUNCHING SEAMLESS COOP THROUGH ERM (IF WRONG IT MAY 1% CAUSE INTERNET AND FIREWALL ISSUES. 99% WILL NOT):
+```diff
+-DO NOT PRESS READ BUTTON WHILE IN MAIN MENU OR LOADING SCREEN (MAY CRASH YOUR GAME & DAMAGE YOUR SAVE):
+-DO NOT CHANGE HP/FP VALUES WHILE FREEZE IS ON (ERM IS WRITING THE SAME DATA YOU ARE CHANGING):
+-MAKE SURE OF THE STEAM PATH BEFORE LAUNCHING SEAMLESS COOP THROUGH ERM (IF WRONG IT MAY 1% CAUSE INTERNET AND FIREWALL ISSUES. 99% WILL NOT):
 ```
 ![(Elden Ring Manager)](GIF2.gif)
 ![(Elden Ring Manager)](GIF1.gif)
@@ -45,13 +45,13 @@ MAKE SURE OF THE STEAM PATH BEFORE LAUNCHING SEAMLESS COOP THROUGH ERM (IF WRONG
  Sorry For Bad Quality GIFs
 <br>
 
-```yaml
-Building For Developers Only:
--Recommended branch is test. (ADMIN branch)
--CSharp Development Kit & .NETFramework For Visual Studio
--Clone Project and Open .sln File
--main branch is for the Software requiring Activation Dode
--test branch is for the Software NOT requiring Activation Code (ADMIN)
+```diff
+-Building for DEVELOPERS ONLY:
+Recommended branch is test. (ADMIN branch)
+C# Development Kit & .NETFramework For Visual Studio
+Clone Project and Open .sln File
+main branch is for the Software requiring Activation Dode
+test branch is for the Software NOT requiring Activation Code (ADMIN)
 ```
 
 **Copyright (C) 2025 ``VERON911 || CHALLENGER``**  
