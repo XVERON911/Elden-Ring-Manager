@@ -18,14 +18,14 @@
 - **ERM** Works with Cracked/Pirated versions of the game
 ![(Elden Ring Manager)](Screenshot.png)
 ```yaml
--ERM will need Elden Ring & Steam paths in your drive (First use only):
+-ERM need Elden Ring & Steam paths in your drive (First use only):
 Example:
 D:\Games\ELDEN RING - Shadow Of The Erdtree
 C:\Program Files (x86)\Steam
 
--ERM will also need you to set up the Session password & whether to allow invaders or not (First use only):
+-ERM need you to set up the Session password & whether to allow invaders or not (First use only):
 
--Launch Seamless Coop will Attempt to launch the Game with Seamless Coop and bypass it's known Error (for older Game Versions):
+-Launch Seamless Coop will Attempt to launch the Game with Seamless Coop and bypass it's known Error:
 
 -Checker State -> Periodically checking for the Game & Steam if running or not:
 
@@ -43,6 +43,8 @@ C:\Program Files (x86)\Steam
 -DO NOT PRESS READ BUTTON WHILE IN MAIN MENU OR LOADING SCREEN (MAY CRASH YOUR GAME & DAMAGE YOUR SAVE):
 -DO NOT CHANGE HP/FP VALUES WHILE FREEZE IS ON (ERM IS WRITING THE SAME DATA YOU ARE CHANGING):
 -MAKE SURE OF THE STEAM PATH BEFORE LAUNCHING SEAMLESS COOP THROUGH ERM (IF WRONG IT MAY 1% CAUSE INTERNET AND FIREWALL ISSUES. 99% WILL NOT):
+-LAUNCH SEAMLESS COOP BUTTON IS INTENDED FOR OLDER GAME VERSIONS
+-DO NOT USE IT WITH A WORKING SEAMLESS COOP GAME VERSION (IT MAY BREAK YOUR ENTIRE SEAMLESS COOP MOD)
 ```
 ![(Elden Ring Manager)](GIF2.gif)
 ![(Elden Ring Manager)](GIF1.gif)
