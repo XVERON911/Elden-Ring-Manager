@@ -98,5 +98,6 @@ You'll need to set up the paths for **Elden Ring** and **Steam** the first time 
 ---
 ## Contact Me
 **Discord**: berlin0698  
-**Reddit**: [Sensitive-Arma](https://www.reddit.com/user/Sensitive-Arma/)
+**Reddit**: <a href="https://www.reddit.com/user/Sensitive-Arma/" target="_blank">Sensitive-Arma</a>
+
 ---
