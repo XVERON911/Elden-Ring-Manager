@@ -17,7 +17,8 @@ This software is intended for users who need to bypass known errors when using t
 5. [Credits](#Credits)
 6. [Licensing](#licensing)
 7. [Contact Me](#contact-me)
-<br>
+
+---
 ## Getting Started
 
 Before you use ERM for the first time, you need to set it up:
