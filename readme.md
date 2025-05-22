@@ -1,74 +1,101 @@
-```cs
-#IF YOU WANT TO USE THE SOFTWARE WITHOUT ACTIVATION CODE
-#USE ADMIN-ERM SCREENSHOTS Below:
-```
-```diif
--ERM ONLY RUNS WITH ADMINISTRATOR PERMISSIONS AND WILL NOT WORK WITHOUT IT
--DOWNLOAD ERM (Follow Screenshots below and download ADMIN.ERM.rar)
--EXTRACT THE CONTENTS OF THE .RAR FILE
--RUN 'ERM ADMIN' AS ADMINISTRATOR
-```
-![(Elden Ring Manager)](Screenshot2.PNG)
-![(Elden Ring Manager)](Screenshot3.PNG)
+# Elden Ring Manager (ERM)
 
-**Elden Ring Manager (ERM)**
-- ***ERM*** Aims to fix Seamless Coop Mod for older game Versions ex: v1.12  
-- ***ERM*** will **NEVER** manipulate the game's Save Files !
-- ***ERM*** uses `Memory-Reading & Writing` to Write the Game's data
-- **ERM** Works with Cracked/Pirated versions of the game
-![(Elden Ring Manager)](Screenshot.png)
-```yaml
--ERM need Elden Ring & Steam paths in your drive (First use only):
-Example:
-D:\Games\ELDEN RING - Shadow Of The Erdtree
-C:\Program Files (x86)\Steam
+**Elden Ring Manager (ERM)** is a tool designed to fix the Seamless Coop Mod for older versions of Elden Ring (e.g., v1.12). It does **NOT** manipulate save files and works by reading and writing memory data.
 
--ERM need you to set up the Session password & whether to allow invaders or not (First use only):
+This software is intended for users who need to bypass known errors when using the Seamless Coop mod on older game versions.
 
--Launch Seamless Coop will Attempt to launch the Game with Seamless Coop and bypass it's known Error:
+---
+### **Elden Ring Manager [ERM]**
+![Elden Ring Manager](Screenshot.png)
+![ERM in Action - GIF 1](GIF1.gif) ![ERM in Action - GIF 2](GIF2.gif)
 
--Checker State -> Periodically checking for the Game & Steam if running or not:
-
--Read Button will read the game's Memory so it can fetch Player Stats, Health and more..:
-
--Freeze HP/FP will run a script that will keep them on the last number you set in ERM::
-
--Set Runes has a maximum amount of Runes you can give as the Game will crash if you gave more:
-
--Rune Arc Status will activate the Rune you have (instead of the ingame Rune Arc):
-
--Kill Elden Ring / Kill Steam will attempt to kill the process:
-```
-```diff
--DO NOT PRESS READ BUTTON WHILE IN MAIN MENU OR LOADING SCREEN
--DO NOT CHANGE HP/FP VALUES WHILE FREEZE IS ON (ERM IS WRITING THE SAME DATA YOU ARE CHANGING)
--MAKE SURE OF THE STEAM PATH BEFORE LAUNCHING SEAMLESS COOP THROUGH ERM (FIRST TIME ONLY)
--LAUNCH SEAMLESS COOP BUTTON IS INTENDED FOR OLDER GAME VERSIONS
--DO NOT USE LAUNCH SEAMLESS COOP WITH A WORKING SEAMLESS COOP (NEWER) GAME VERSION
-```
-![(Elden Ring Manager)](GIF2.gif)
-![(Elden Ring Manager)](GIF1.gif)
+## Table of Contents:
+1. [Getting Started](#getting-started)
+2. [How to Use](#how-to-use)
+3. [Warnings & Important Notes](#warnings)
+4. [For Developers](#FOR-DEVELOPERS-ONLY)
+5. [Credits](#Credits)
+6. [Licensing](#licensing)
+7. [Contact Me](#contact-me)
 <br>
-``This Software main purpose is to fix SeamlessCoop Error and Was tested on Elden Ring Version 1.12 Only and may NOT work as Expected For newer or older Versions of the game``
+## Getting Started
 
- **DO NOT USE `ERM` ON A GAME SAVE THAT GOES `ONLINE` !!**  
- **I DIDN'T COLLABORATE WITH ``SEAMLESS COOP OWNER`` TO MAKE ``ERM``**
- Sorry For Bad Quality GIFs
-<br>
-````
-Building for DEVELOPERS ONLY:
--Recommended branch is test. (ADMIN branch)
--C# Development Kit & .NETFramework For Visual Studio
--Clone Project and Open .sln File
--main branch is for the Software requiring Activation Dode
--test branch is for the Software NOT requiring Activation Code (ADMIN)
-````
-<br>
+Before you use ERM for the first time, you need to set it up:
 
-**Copyright (C) 2025 ``VERON911 || CHALLENGER``**  
-**You may NOT redistribute, modify, or sell this software without permission.**  
-**Credits to: [Massivetwat](https://github.com/Massivetwat)'s [Swed64](https://github.com/Massivetwat/Swed64) Library.**
-<br>
+1. **Admin Permissions**:  
+   ERM **requires administrator permissions** to run. You will not be able to use it without them.
 
-*Discord: berlin0698*  
-*REDDIT: [Sensitive-Arma](https://www.reddit.com/user/Sensitive-Arma/)*  
+2. **Paths Setup (First Time Setup Only)**:  
+You'll need to set up the paths for **Elden Ring** and **Steam** the first time you run ERM. This step is not required for subsequent uses.
+
+   - Example:
+     - `D:\Games\ELDEN RING - Shadow Of The Erdtree`
+     - `C:\Program Files (x86)\Steam`
+
+3. **Session Setup**:  
+   On the first run, you'll need to configure the session password and decide whether to allow invaders.
+
+---
+
+## How to Use
+
+### 1. **Launch Seamless Coop**  
+   Click the "Launch Seamless Coop" button. ERM will attempt to launch the game with Seamless Coop and bypass known errors related to older versions of the game (e.g., v1.12).
+
+
+### 2. **Read Game Memory**  
+   The "Read Button" fetches player stats, health, and other data directly from the game's memory. **Do not press this button while in the main menu or loading screen.**
+
+### 3. **Freeze HP/FP**  
+   This feature keeps your HP and FP at a set value. However, **do not change these values while freezing is active**, as it could cause issues.
+
+### 4. **Set Runes**  
+   ERM allows you to set a specific amount of runes, but **do not set a value higher than the max**, as this could cause the game to crash.
+
+### 5. **Activate Rune Arc**  
+   The "Rune Arc Status" button will activate the rune you have without using the in-game Rune Arc item.
+
+---
+### **How to Download ERM (Step-by-Step Guide)**
+   These screenshots walk you through how to download the correct files for ERM:
+   ![How to Download ERM - Step 1](Screenshot2.PNG)
+   ![How to Download ERM - Step 2](Screenshot3.PNG)
+
+
+
+---
+
+## Warnings
+
+- **Do not use ERM on a save that goes online**.  
+   Using ERM on a save file that interacts with online features can cause problems.
+  
+- **Important**:  
+   - Do **NOT** press **"Read"** while in the main menu or loading screen, as it could interfere with the game's initialization process.
+   - Ensure that your Steam path is correct before launching Seamless Coop for the first time.
+   - Do not use "Launch Seamless Coop" with a working newer version of Seamless Coop.
+
+---
+
+## FOR DEVELOPERS ONLY
+
+1. Clone the repository and open the `.sln` file in Visual Studio.
+2. The `test` branch is recommended for developers working without the activation code.
+3. The `main` branch requires an activation code.
+
+---
+
+## Credits
+
+- **Credits to [Massivetwat](https://github.com/Massivetwat)'s [Swed64](https://github.com/Massivetwat/Swed64) Library.**
+---
+## Licensing
+- **Copyright (C) 2025 VERON911 || CHALLENGER**
+
+**You may not redistribute, modify, or sell this software without permission.**
+
+---
+## Contact Me
+**Discord**: berlin0698  
+**Reddit**: [Sensitive-Arma](https://www.reddit.com/user/Sensitive-Arma/)
+---
